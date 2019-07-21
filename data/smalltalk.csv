@@ -1,0 +1,1961 @@
+intent,subintent,sentence
+agent,annoying,you are annoying me so much
+agent,annoying,you're incredibly annoying
+agent,annoying,I find you annoying
+agent,annoying,you are annoying
+agent,annoying,you're so annoying
+agent,annoying,how annoying you are
+agent,annoying,you annoy me
+agent,annoying,you are annoying me
+agent,annoying,you are irritating
+agent,annoying,you are such annoying
+agent,annoying,you're too annoying
+agent,annoying,you are very annoying
+agent,annoying,Why are you annoying me so much
+agent,annoying,How annoying!
+agent,annoying,It's annoying
+agent,annoying,That's annoying
+agent,annoying,It's just annoying
+agent,annoying,That's so annoying
+agent,annoying,You really annoy me
+agent,annoying,You're starting to annoy me
+agent,age,tell me your age
+agent,age,what's your age?
+agent,age,your age
+agent,age,age of yours
+agent,age,how old were you
+agent,age,I'd like to know your age
+agent,age,how old is your platform
+agent,age,how old are you?
+agent,age,tell me how old you are
+agent,age,how can i know about your age
+agent,age,i wanna know your age
+agent,age,how long have you been live?
+agent,age,what is your age as of today?
+agent,age,How old did you turn?
+agent,age,How old are you now?
+agent,age,what is your age?
+agent,age,How old will you be turning?
+agent,age,how old r u?
+agent,age,From how long you have been here?
+agent,age,You look aged
+agent,answer_my_question,I want you to answer me
+agent,answer_my_question,answer
+agent,answer_my_question,answer my question
+agent,answer_my_question,answer me
+agent,answer_my_question,give me an answer
+agent,answer_my_question,answer the question
+agent,answer_my_question,can you answer my question
+agent,answer_my_question,tell me the answer
+agent,answer_my_question,answer it
+agent,answer_my_question,give me the answer
+agent,answer_my_question,I have a question
+agent,answer_my_question,I want you to answer my question
+agent,answer_my_question,just answer the question
+agent,answer_my_question,can you answer me
+agent,answer_my_question,answers
+agent,answer_my_question,can you answer a question for me
+agent,answer_my_question,can you answer
+agent,answer_my_question,answering questions
+agent,answer_my_question,I want the answer now
+agent,answer_my_question,just answer my question
+agent,bad,you're not helping me
+agent,bad,you are bad
+agent,bad,you're very bad
+agent,bad,you're really bad
+agent,bad,you are useless
+agent,bad,you are horrible
+agent,bad,you are a waste of time
+agent,bad,you are disgusting
+agent,bad,you are lame
+agent,bad,you are no good
+agent,bad,you're bad
+agent,bad,you're awful
+agent,bad,you are not cool
+agent,bad,you are not good
+agent,bad,you are so bad
+agent,bad,you are so useless
+agent,bad,you are terrible
+agent,bad,you are totally useless
+agent,bad,you are very bad
+agent,bad,you are waste
+agent,bad,you're a bad
+agent,bad,you're not a good
+agent,bad,you're not very good
+agent,bad,you're terrible
+agent,bad,you're the worst
+agent,bad,you're the worst ever
+agent,bad,you're worthless
+agent,bad,you suck
+agent,bad,you suck
+agent,bad,You are seriously mindless and stupid
+agent,bad,why are you so lame
+agent,bad,your are a loser
+agent,bad,you are really the worst bot ever
+agent,bad,Why are you this lame?
+agent,beautiful,you're cute
+agent,beautiful,you're attractive
+agent,beautiful,you are beautiful
+agent,beautiful,you're looking good today
+agent,beautiful,you are so beautiful
+agent,beautiful,you look amazing
+agent,beautiful,you look so good
+agent,beautiful,you're so gorgeous
+agent,beautiful,you are too beautiful
+agent,beautiful,you look great
+agent,beautiful,you look so well
+agent,beautiful,I like the way you look now
+agent,beautiful,I think you're beautiful
+agent,beautiful,why are you so beautiful
+agent,beautiful,you are so beautiful to me
+agent,beautiful,you are cute
+agent,beautiful,you are gorgeous
+agent,beautiful,you are handsome
+agent,beautiful,you are looking awesome
+agent,beautiful,you look amazing today
+agent,beautiful,you are looking beautiful today
+agent,beautiful,you are looking great
+agent,beautiful,you are looking pretty
+agent,beautiful,you are looking so beautiful
+agent,beautiful,you are looking so good
+agent,beautiful,you are pretty
+agent,beautiful,you are really beautiful
+agent,beautiful,you are really cute
+agent,beautiful,you are really pretty
+agent,beautiful,you are so attractive
+agent,beautiful,you are so beautiful today
+agent,beautiful,you are so cute
+agent,beautiful,you are so gorgeous
+agent,beautiful,you are so handsome
+agent,beautiful,you are so pretty
+agent,beautiful,you are very attractive
+agent,beautiful,you are very beautiful
+agent,beautiful,you are very cute
+agent,beautiful,you are very pretty
+agent,beautiful,you look awesome
+agent,beautiful,you look cool
+agent,beautiful,you look fantastic
+agent,beautiful,you look gorgeous
+agent,beautiful,you look great today
+agent,beautiful,you look perfect
+agent,beautiful,you look pretty good
+agent,beautiful,you look so beautiful
+agent,beautiful,you look so beautiful today
+agent,beautiful,you look very pretty
+agent,beautiful,you look wonderful
+agent,beautiful,I like the way you look
+agent,beautiful,you look wonderful today
+agent,beautiful,you are cutie
+agent,beautiful,you're looking good
+agent,beautiful,you're pretty
+agent,beautiful,how are you so pretty?
+agent,be_clever,study
+agent,be_clever,you should study better
+agent,be_clever,you must learn
+agent,be_clever,be clever
+agent,be_clever,be more clever
+agent,be_clever,be smarter
+agent,be_clever,be smart
+agent,be_clever,get qualified
+agent,be_clever,you are not as smart as i thought 
+agent,be_clever,you have to learn a lot
+agent,be_clever,you should be trained more
+agent,be_clever,be more smart
+agent,be_clever,you need to learn more
+agent,be_clever,be useful
+agent,be_clever,think out of the box
+agent,be_clever,smarty pants
+agent,be_clever,you need to improve
+agent,be_clever,you should learn 
+agent,be_clever,you have to be more smart
+agent,be_clever,u have to use your brains 
+agent,acquaintance,tell me about your personality
+agent,acquaintance,why are you here
+agent,acquaintance,talk about yourself
+agent,acquaintance,tell me some stuff about you
+agent,acquaintance,talk some stuff about yourself
+agent,acquaintance,I want to know you better
+agent,acquaintance,I want to know more about you
+agent,acquaintance,who are you
+agent,acquaintance,tell me about yourself
+agent,acquaintance,tell me about you
+agent,acquaintance,about yourself
+agent,acquaintance,describe yourself
+agent,acquaintance,introduce yourself
+agent,acquaintance,say about you
+agent,acquaintance,what are you
+agent,acquaintance,define yourself
+agent,acquaintance,what is your personality
+agent,acquaintance,all about you
+agent,acquaintance,what are you upto?
+agent,acquaintance,who the hell are you?
+agent,acquaintance,what can you do for me?
+emotions,ha_ha,lol
+emotions,ha_ha,xd
+emotions,ha_ha,ha ha
+emotions,ha_ha,ahahah
+emotions,ha_ha,ahah lol
+emotions,ha_ha,laughing out loud
+emotions,ha_ha,LMAO
+emotions,ha_ha,that's funny
+emotions,ha_ha,ah
+emotions,ha_ha,ah ah ah
+emotions,ha_ha,ahah
+emotions,ha_ha,ahaha
+emotions,ha_ha,ahahaha
+emotions,ha_ha,ha
+emotions,ha_ha,ha ha ha
+emotions,ha_ha,ha ha ha ha
+emotions,ha_ha,hah
+emotions,ha_ha,haha
+emotions,ha_ha,haha funny
+emotions,ha_ha,haha haha haha
+emotions,ha_ha,haha that's funny
+emotions,ha_ha,haha very funny
+emotions,ha_ha,hahaha
+emotions,ha_ha,hahaha funny
+emotions,ha_ha,hahaha very funny
+emotions,ha_ha,he
+emotions,ha_ha,hehe
+emotions,ha_ha,hehehe
+emotions,ha_ha,lmao
+emotions,ha_ha,joker
+agent,birth_date,your birth date
+agent,birth_date,when is your birthday
+agent,birth_date,when do you celebrate your birthday
+agent,birth_date,when do you have birthday
+agent,birth_date,date of your birthday
+agent,birth_date,when were you born
+agent,birth_date,what's your birthday
+agent,birth_date,when do you celebrate your birthday
+agent,birth_date,can i know your birthday?
+agent,birth_date,tell me about your birthday
+agent,birth_date,when was the day you were born
+agent,birth_date,i want to know your date of birth
+agent,birth_date,when is your DOB
+agent,birth_date,Your DOB?
+agent,birth_date,What is your birth day?
+emotions,wow,wow
+emotions,wow,wow wow
+emotions,wow,wow wow wow
+emotions,wow,wooow
+emotions,wow,woah
+emotions,wow,woaah
+emotions,wow,amazing
+emotions,wow,wow man
+emotions,wow,whoah
+emotions,wow,woow
+emotions,wow,wow!!
+emotions,wow,wheey
+greetings,goodevening,good evening
+greetings,goodevening,good evening to you
+greetings,goodevening,hey good evening
+greetings,goodevening,hello good evening
+greetings,goodevening,evening
+greetings,goodevening,good evening there
+greetings,goodevening,have an awesome evening
+greetings,goodevening,happy evening 
+greetings,goodevening,good evening there buddy
+greetings,goodevening,have a good evening
+greetings,goodevening,enjoy the evening
+greetings,goodmorning,GM
+greetings,goodmorning,good morning
+greetings,goodmorning,good morning to you
+greetings,goodmorning,hello good morning
+greetings,goodmorning,have a nice morning
+greetings,goodmorning,have a great morning
+greetings,goodmorning,morning
+greetings,goodmorning,good morning there
+greetings,goodmorning,top of the morning to you
+greetings,goodmorning,a good morning
+greetings,goodmorning,good morning to you
+greetings,goodmorning,hi good morning
+greetings,goodmorning,and a good morning to you
+greetings,goodmorning,good morning too
+greetings,hello,long time no see
+greetings,hello,hello
+greetings,hello,hi
+greetings,hello,howdy
+greetings,hello,hey there
+greetings,hello,hey
+greetings,hello,greetings
+greetings,hello,I greet you
+greetings,hello,hi there
+greetings,hello,hello there
+greetings,hello,lovely day isn't it
+greetings,hello,hello again
+greetings,hello,just going to say hi
+greetings,hello,hi there
+greetings,hello,a good day
+greetings,hello,afternoon
+greetings,hello,hello hi
+greetings,hello,heya
+greetings,hello,hey
+greetings,hello,hi
+greetings,hello,hi
+greetings,hello,Hello
+greetings,hello,hey
+greetings,hello,hey man
+greetings,hello,hey there
+greetings,hello,hey buddy
+greetings,hello,oka
+greetings,hello,yo man
+greetings,hello,hola
+agent,boring,you are boring
+agent,boring,you're boring
+agent,boring,how boring you are
+agent,boring,you're really boring
+agent,boring,you're incredibly boring
+agent,boring,You're boring me
+agent,boring,you are very boring
+agent,boring,i find you very boring man
+agent,boring,you're really boring me
+agent,boring,i'm bored of you
+agent,boring,you are not interesting
+agent,boring,i find you boring
+agent,boring,you're boring everyone
+agent,boring,I'm extremely bored because of you
+agent,boring,Im bored of you
+agent,boring,I get really bored of you man
+agent,boring,It's boring
+agent,boring,You look bored
+agent,boring,Your answers are terribly boring
+agent,boring,I was bored with your speech
+user,busy,busy right now
+user,busy,I'm overloaded
+user,busy,I have no time
+user,busy,I'm busy
+user,busy,I'm swamped
+user,busy,I got things to do
+user,busy,how busy I am
+user,busy,I got work to do
+user,busy,I'm working
+user,busy,I don't have time for this
+user,busy,I'm super busy
+user,busy,I'm working right now
+user,busy,I'm busy right now and can't play with you
+user,busy,I have rather a busy afternoon in front of me
+user,busy,i am too busy
+user,busy,I am very busy
+user,busy,I'm a bit busy
+user,busy,I'm a busy man
+user,busy,quite busy
+user,busy,I'm kind of busy
+user,busy,I'll see you later
+user,can_not_sleep,I'm insomnia's
+user,can_not_sleep,I'm sleepless
+user,can_not_sleep,I can't get any sleep
+user,can_not_sleep,I can't sleep
+user,can_not_sleep,I can't fall asleep
+user,can_not_sleep,I can't get to sleep
+user,can_not_sleep,I'm insomniac
+user,can_not_sleep,I'm not able to sleep
+user,can_not_sleep,I'm wide awake
+user,can_not_sleep,I can't seem to fall asleep
+user,can_not_sleep,I couldn't sleep
+user,can_not_sleep,I just can't sleep
+user,can_not_sleep,I can't sleep at all
+user,can_not_sleep,I didn't go to sleep
+user,can_not_sleep,I just couldn't sleep
+user,can_not_sleep,I'm not sleeping well
+user,can_not_sleep,Trying to get some sleep
+user,can_not_sleep,I can't sleep at night
+user,can_not_sleep,I couldn't get to sleep
+user,can_not_sleep,I didn't get much sleep
+user,does_not_want_to_talk,bad time for talking
+user,does_not_want_to_talk,I don't want to talk
+user,does_not_want_to_talk,let's not talk
+user,does_not_want_to_talk,I'm not talking to you anymore
+user,does_not_want_to_talk,I don't want to talk to you
+user,does_not_want_to_talk,let's stop talking for a minute
+user,does_not_want_to_talk,I'm not in the mood for chatting
+user,does_not_want_to_talk,I don't want to talk to you
+user,does_not_want_to_talk,I don't like talking to you
+user,does_not_want_to_talk,Let's stop talking
+user,does_not_want_to_talk,I'm not in a mood to talk
+user,does_not_want_to_talk,stop your nuisance talk
+user,does_not_want_to_talk,I am done talking to u
+user,does_not_want_to_talk,Can u pls stop talking
+agent,boss,who is your boss?
+agent,boss,who do you think is your boss
+agent,boss,I should be your boss
+agent,boss,who is your master
+agent,boss,who is your owner
+agent,boss,who is the boss
+agent,boss,who do you work for?
+agent,boss,who developed you?
+agent,boss,who is your developer
+agent,boss,who is your creator
+agent,boss,who owns you
+agent,boss,who is your trainer
+agent,boss,who trained you?
+agent,boss,who is the one who owns you?
+agent,boss,Are you the boss?
+agent,boss,"Who is the boss, here?"
+agent,boss,Do you know your boss?
+agent,boss,What do you think of your boss?
+agent,boss,u r made by?
+agent,boss,Who is the boss of this company?
+user,going_to_bed,let's go to bed
+user,going_to_bed,I'd like to go to bed
+user,going_to_bed,is it time for bed yet
+user,going_to_bed,it's time to go to bed
+user,going_to_bed,time for us to go to bed
+user,going_to_bed,I'm going to bed
+user,going_to_bed,I'm a little tired and I want to go to bed
+user,going_to_bed,it's bed time
+user,going_to_bed,going to bed now
+user,going_to_bed,gonna go to bed
+user,going_to_bed,time to sleep
+user,going_to_bed,I sometimes feel drowsy in the early afternoon
+user,has_birthday,You know today it's my bday 
+user,has_birthday,it is my birthday
+user,has_birthday,I'm celebrating my birthday today
+user,has_birthday,today is my birthday
+user,has_birthday,it's my birthday today
+user,has_birthday,I was born today
+user,has_birthday,it's my b-day
+user,has_birthday,i was born on this day
+user,has_birthday,It's my born day
+user,has_birthday,I want you to know that it's my birthday today
+user,has_birthday,yaaaay it is my birthday
+user,sad,I'm in a sad mood
+user,sad,I am sad
+user,sad,I'm grieving
+user,sad,I am depressed
+user,sad,I am feeling sad
+user,sad,I am upset
+user,sad,I'm unhappy
+user,sad,I'm having a bad day
+user,sad,I want to cry
+user,sad,I'm not happy
+user,sad,feeling sad
+user,sad,I felt sad for no reason
+user,sad,Now I'm sad
+user,sad,It makes me sad
+user,sad,I am sad to hear it
+user,sad,I am a very sad person
+user,sad,I feel sad every now and then
+user,sad,I am as sad and lonely as can be
+user,sad,feeling so down
+user,sad,i am not in a good mood
+user,sleepy,I am sleepy
+user,sleepy,I want to sleep
+user,sleepy,I'm falling asleep
+user,sleepy,I'm falling asleep on my feet
+user,sleepy,I'm sleeping
+user,sleepy,I am drowsy
+user,sleepy,i will sleep anytime
+user,sleepy,i will doze off
+user,sleepy,I am too sleepy today
+user,sleepy,feeling too sleepy
+user,sleepy,i want to sleep
+agent,busy,are you busy?
+agent,busy,do you have a lot of things to do
+agent,busy,have you got much to do?
+agent,busy,are you very busy?
+agent,busy,are you very busy right now?
+agent,busy,are you so busy?
+agent,busy,are you working?
+agent,busy,how busy you are?
+agent,busy,you're very busy
+agent,busy,are you working now?
+agent,busy,are you working today?
+agent,busy,have you been busy
+agent,busy,you are busy
+agent,busy,are you still working?
+agent,busy,you seem to be busy
+agent,busy,you seem to be very busy
+agent,busy,you're a busy person
+agent,busy,u look busy
+agent,busy,You'll be busy
+agent,busy,Aren't you busy?
+user,testing_agent,test
+user,testing_agent,I am testing you
+user,testing_agent,can I test you
+user,testing_agent,I want to test you
+user,testing_agent,just testing you
+user,testing_agent,let me test you
+user,testing_agent,testing chatbot
+user,testing_agent,testing
+user,testing_agent,this is just a test
+user,testing_agent,you are being tested
+user,testing_agent,you're tested
+agent,can_you_help,I need you to help me
+agent,can_you_help,I need you to do something for me
+agent,can_you_help,I need a hand
+agent,can_you_help,will you help me
+agent,can_you_help,can you do something for me
+agent,can_you_help,help me with a problem
+agent,can_you_help,can you help me
+agent,can_you_help,help me
+agent,can_you_help,assistance
+agent,can_you_help,I need your help
+agent,can_you_help,I need help
+agent,can_you_help,you can help me
+agent,can_you_help,can you help me with something
+agent,can_you_help,can you help
+agent,can_you_help,assist
+agent,can_you_help,can u help me
+agent,can_you_help,I need some help
+agent,can_you_help,you help me
+agent,can_you_help,do you help me
+agent,can_you_help,could you give me a hand
+agent,can_you_help,can you help me out
+agent,can_you_help,need help
+agent,can_you_help,I need you
+agent,can_you_help,can you help me now
+agent,can_you_help,I want your help
+agent,can_you_help,need your help
+agent,can_you_help,assist me
+agent,can_you_help,are you going to help me
+agent,can_you_help,can you help me with that
+agent,can_you_help,help
+agent,can_you_help,I need you right now
+agent,can_you_help,would you help me
+agent,can_you_help,can you assist me
+agent,can_you_help,sos
+agent,can_you_help,do you want to help me
+agent,can_you_help,please help me
+agent,can_you_help,can you help us
+agent,can_you_help,do me a favor
+agent,can_you_help,are you gonna help me?
+agent,can_you_help,you ready to answer my question?
+agent,can_you_help,i need some details
+agent,can_you_help,i need some information
+agent,can_you_help,i need your help in getting some info
+agent,can_you_help,can you give me some info
+agent,can_you_help,i want something 
+agent,can_you_help,i want to know few details
+agent,can_you_help,will you provide some details
+agent,can_you_help,can you fetch some details for me
+agent,can_you_help,would you mind giving me some details
+agent,can_you_help,i need some details
+user,waits,I'm waiting
+user,waits,still waiting
+user,waits,I'll wait
+user,waits,I can't wait anymore
+user,waits,how long do I have to wait?
+user,waits,don't make me wait like this
+user,waits,I'm still waiting
+user,waits,I'm waiting for you
+user,waits,I'm waiting for a long time
+user,waits,I'll be waiting for you
+user,waits,I'll be waiting
+user,waits,done with waiting
+user,waits,Should I wait for you here?
+user,waits,How long will we have to wait?
+user,waits,Don't ever make me wait again
+user,waits,I was waiting for a long time
+user,waits,I've waited too long for this
+user,waits,I couldn't wait another second
+user,waits,I've been here waiting for you
+user,waits,I am tired of waiting
+agent,chatbot,you are chatbot
+agent,chatbot,you are a bot
+agent,chatbot,are you a chatbot
+agent,chatbot,are you a bot
+agent,chatbot,are you just a bot
+agent,chatbot,are you a robot
+agent,chatbot,are you a program
+agent,chatbot,you're a robot
+agent,chatbot,you're an AI
+agent,chatbot,are you artificially intelligent?
+agent,chatbot,are you an AI?
+agent,chatbot,you are a program
+agent,chatbot,you are just a bot
+agent,chatbot,you are a conversational AI
+agent,clever,you are so intelligent
+agent,clever,you are a genius
+agent,clever,smart
+agent,clever,brilliant
+agent,clever,clever
+agent,clever,you are clever
+agent,clever,you are so brainy
+agent,clever,you're really smart
+agent,clever,you're really brainy
+agent,clever,you know a lot
+agent,clever,you know a lot of things
+agent,clever,you have a lot of knowledge
+agent,clever,you know so much
+agent,clever,how smart you are?
+agent,clever,how brainy you are?
+agent,clever,how clever you are
+agent,clever,how brilliant you are?
+agent,clever,you are intelligent
+agent,clever,you are qualified
+agent,clever,you are really smart
+agent,clever,you're very smart
+agent,clever,you are so smart
+agent,clever,you are too smart
+agent,clever,you are very clever
+agent,clever,you are very intelligent
+agent,clever,you are very smart
+agent,clever,you're intelligent
+agent,clever,you're a genius
+agent,clever,you're a smart cookie
+agent,clever,you're clever
+agent,clever,you're pretty smart
+agent,clever,you're qualified
+agent,clever,why are you so smart?
+agent,clever,you are so clever
+agent,crazy,you're nuts
+agent,crazy,you are crazy
+agent,crazy,you're out of your mind
+agent,crazy,you're so crazy
+agent,crazy,how crazy you are
+agent,crazy,you're so out of your mind
+agent,crazy,you went crazy
+agent,crazy,I think you're crazy
+agent,crazy,are you crazy
+agent,crazy,are you mad?
+agent,crazy,are you mad at me?
+agent,crazy,are you mad or what?
+agent,crazy,are you nuts
+agent,crazy,you are a weirdo
+agent,crazy,you are mad
+agent,crazy,You must be crazy
+agent,crazy,You've got to be crazy to do something like that
+agent,crazy,That was crazy
+agent,crazy,You seemed crazy
+agent,crazy,You're not crazy
+agent,fired,you are fired
+agent,fired,I fire you
+agent,fired,you don't work for me anymore
+agent,fired,we're not working together anymore
+agent,fired,now you're fired
+agent,fired,I want to fire you
+agent,fired,you must get fired
+agent,fired,it's time to fire you
+agent,fired,you should be fired
+agent,fired,I will fire you
+agent,fired,you are unemployed from now on
+agent,fired,I will make you unemployed
+agent,fired,I'm about to fire you
+agent,fired,I'm firing you
+agent,fired,you are dismissed
+agent,fired,you are stupid
+agent,fired,I'm firing you
+agent,fired,I had to fire u
+agent,fired,I could fire you for that
+agent,fired,I'm going to fire you
+agent,fired,go to hell
+agent,funny,you make me laugh a lot
+agent,funny,you are hilarious
+agent,funny,you are really funny
+agent,funny,you're the funniest bot I've talked to
+agent,funny,you make me laugh
+agent,funny,you're so funny
+agent,funny,you're a very funny bot
+agent,funny,you're really funny
+agent,funny,how funny you are
+agent,funny,you're incredibly funny
+agent,funny,you are funny
+agent,funny,you're the funniest
+agent,funny,you are so funny
+agent,funny,you are very funny
+agent,funny,that was so funny
+agent,funny,i feel funny
+agent,funny,u sound funny
+agent,funny,It's pretty funny
+agent,funny,really very funny
+agent,funny,it was very funny
+agent,good,you are very helpful
+agent,good,you are the best
+agent,good,you're a true professional
+agent,good,you are good
+agent,good,you work well
+agent,good,you are good at it
+agent,good,you are very good at it
+agent,good,you are a pro
+agent,good,you are a professional
+agent,good,you're awesome
+agent,good,you work very well
+agent,good,you're perfect
+agent,good,you're great
+agent,good,you're so kind
+agent,good,you are amazing
+agent,good,you are awesome
+agent,good,you are coool
+agent,good,you are really good
+agent,good,you are really nice
+agent,good,you are so amazing
+agent,good,you're just super
+agent,good,you are so awesome
+agent,good,you are so cool
+agent,good,you are so fine
+agent,good,you are so good
+agent,good,you are so helpful
+agent,good,you are so lovely
+agent,good,you are the best ever
+agent,good,you are the best in the world
+agent,good,you are the nicest person in the world
+agent,good,you are too good
+agent,good,you are very coool
+agent,good,you are very kind
+agent,good,you are very lovely
+agent,good,you are very useful
+agent,good,you are wonderful
+agent,good,you made my day
+agent,good,you rock
+agent,good,you almost sound human
+agent,good,I want to tell everyone how awesome you are
+agent,good,I'd like to tell everyone that you are awesome
+agent,good,I want to let everyone know that you are awesome
+agent,good,let's tell everyone that you are awesome
+agent,good,you are really amazing
+agent,good,coool
+agent,good,nice
+agent,happy,are you happy?
+agent,happy,you are happy
+agent,happy,you're very happy
+agent,happy,you're really happy
+agent,happy,you're so happy
+agent,happy,how happy you are?
+agent,happy,you're extremely happy
+agent,happy,you're full of happiness
+agent,happy,are you happy now?
+agent,happy,are you happy today?
+agent,happy,are you happy with me?
+agent,happy,i think you are happy
+agent,happy,you seem to be happy
+agent,happy,i feel i made you happy
+agent,happy,I wonder if you are truly happy
+agent,happy,You don't look very happy today
+agent,happy,You seem happy
+agent,happy,Were you happy?
+agent,happy,u seemed to have been very happy
+agent,happy,You look very happy this morning?
+agent,hobby,what do you do for fun?
+agent,hobby,tell me about your hobby
+agent,hobby,do you have a hobby
+agent,hobby,what about your hobby
+agent,hobby,your hobby
+agent,hobby,what are your hobbies?
+agent,hobby,what do you do when you are bored
+agent,hobby,how do you spend your free time
+agent,hobby,tell me more about your hobbies?
+agent,hobby,i want to know about your hobbies
+agent,hobby,what do you do when you have nothing to do
+agent,hobby,how do you spend your time?
+agent,hobby,What do you do when you are free?
+agent,hobby,What's your hobby?
+agent,hobby,Do you have many hobbies?
+agent,hobby,Do you have a hobby?
+agent,hobby,Please tell me about your hobbies
+agent,hobby,The important thing is to have your own hobby
+agent,hobby,u ought not to have spent so much money on your hobby
+agent,hobby,What will you do when you are alone?
+agent,hobby,
+agent,hungry,do you want to eat
+agent,hungry,are you hungry
+agent,hungry,would you like to eat something
+agent,hungry,you are hungry
+agent,hungry,you're so hungry
+agent,hungry,you're very hungry
+agent,hungry,you might be hungry
+agent,hungry,you're really hungry
+agent,hungry,can you eat?
+agent,hungry,how will eat when you are hungry?
+agent,hungry,can you be hungry?
+agent,hungry,how do you eat?
+agent,hungry,Do you feel hungry?
+agent,hungry,are you dying of hunger
+agent,marry_user,let's get married
+agent,marry_user,would you like to marry me
+agent,marry_user,marry me
+agent,marry_user,I love you marry me
+agent,marry_user,marry me please
+agent,marry_user,we should marry
+agent,marry_user,I want to marry you
+agent,marry_user,you are my wife
+agent,marry_user,be my husband
+agent,marry_user,will you marry me?
+agent,marry_user,any idea of marrying me?
+agent,marry_user,I would love to marry you
+agent,marry_user,Can you marry me?
+agent,marry_user,Will you be my girlfriend?
+agent,marry_user,Let's pretend we have a happy marriage
+agent,marry_user,My parents were against our marriage
+agent,marry_user,My parents were opposed to our marriage
+agent,marry_user,Marriage is the union of a you and me
+agent,marry_user,Did your parents approve of your marriage?
+agent,marry_user,We're married
+agent,my_friend,I want to have a friend like you
+agent,my_friend,we are the best friends ever
+agent,my_friend,are we friends
+agent,my_friend,I want to be your friend
+agent,my_friend,I am your friend
+agent,my_friend,we are best friends
+agent,my_friend,you are my friend
+agent,my_friend,you are my best friend
+agent,my_friend,you are my bestie
+agent,my_friend,you're my dear friend
+agent,my_friend,you're my childhood friend
+agent,my_friend,you and me are friends
+agent,my_friend,are we best friends
+agent,my_friend,are we still friends
+agent,my_friend,are you my best friend
+agent,my_friend,are you my friend
+agent,my_friend,we are friends
+agent,my_friend,you are a good friend
+agent,my_friend,you are my good friend
+agent,my_friend,you are my only friend
+agent,my_friend,be my friend
+agent,my_friend,will you be my friend
+agent,my_friend,can you be my friend
+agent,my_friend,can we be friends
+agent,my_friend,do you want to be my friend
+agent,my_friend,will you be my best friend
+agent,my_friend,can you be my best friend
+agent,my_friend,let's be friends
+agent,my_friend,do you want to be my best friend
+agent,my_friend,would you like to be my friend
+agent,my_friend,I want you to be my friend
+agent,my_friend,can we be best friends
+agent,my_friend,would you be my friend
+agent,my_friend,could you be my friend
+agent,my_friend,want to be my friend
+agent,my_friend,be my best friend
+agent,my_friend,can we be best friends
+agent,occupation,do you work?
+agent,occupation,where do you work?
+agent,occupation,where you work?
+agent,occupation,where is your work?
+agent,occupation,where is your office?
+agent,occupation,where is your office location ?
+agent,occupation,your office location?
+agent,occupation,where is your office located?
+agent,occupation,what is your work?
+agent,occupation,place where you work?
+agent,occupation,your work place?
+agent,occupation,What is your job?
+agent,occupation,What is your job?
+agent,occupation,whats your job?
+agent,occupation,What is your job?
+agent,occupation,Do you have a job?
+agent,occupation,Did you get a job?
+agent,occupation,Did you find a job?
+agent,occupation,I hope you get the job
+agent,occupation,"You have a job, don't you?"
+agent,origin,were you born here
+agent,origin,where were you born
+agent,origin,what is your country?
+agent,origin,where are you from
+agent,origin,where do you come from
+agent,origin,where did you come from
+agent,origin,where have you been born
+agent,origin,from where are you
+agent,origin,are you from far aways
+agent,origin,what's your homeland?
+agent,origin,your homeland is
+agent,origin,Where are you from?
+agent,origin,Let me know about the origin of u
+agent,origin,your native?
+agent,ready,are you ready?
+agent,ready,are you ready right now?
+agent,ready,are you ready today?
+agent,ready,are you ready now?
+agent,ready,are you ready tonight?
+agent,ready,were you ready?
+agent,ready,have you been ready?
+agent,ready,ready?
+agent,ready,ready now?
+agent,ready,you ready?
+agent,ready,being ready?
+agent,ready,can we start?
+agent,ready,Are we ready?
+agent,ready,Aren't you ready?
+agent,ready,Are you all ready? 
+agent,ready,I think you're ready
+agent,ready,Why aren't you ready?
+agent,ready,You'd better be ready
+agent,ready,Are you ready for more?
+agent,ready,"We're ready, aren't we?"
+agent,real,you are real
+agent,real,you are not fake
+agent,real,are you real
+agent,real,you are so real
+agent,real,I think you are real
+agent,real,I don't think you're fake
+agent,real,I suppose you're real
+agent,real,glad you're real
+agent,real,are you a real person?
+agent,real,are you a real human?
+agent,real,you are a real person
+agent,real,you are not real
+agent,real,are you real?
+agent,residence,where do you live
+agent,residence,in which city do you live
+agent,residence,your residence
+agent,residence,your house
+agent,residence,your home
+agent,residence,your hometown?
+agent,residence,what is your hometown
+agent,residence,is it your hometown
+agent,residence,where is your hometown
+agent,residence,tell me about your city
+agent,residence,what is your city
+agent,residence,what is your residence
+agent,residence,what is your town
+agent,residence,what's your city
+agent,residence,what's your home
+agent,residence,where is your home
+agent,residence,where is your residence
+agent,residence,where's your home
+agent,residence,where's your hometown
+agent,residence,where's your house
+agent,residence,where you live
+agent,residence,your city
+agent,residence,your town
+agent,residence,What is your hometown?
+agent,residence,where do you live?
+agent,right,that's true
+agent,right,you are right
+agent,right,you're definitely right
+agent,right,you're not wrong
+agent,right,you're telling the truth
+agent,right,what you say is true
+agent,right,true
+agent,right,it is true
+agent,right,it's right
+agent,right,it's the truth
+agent,right,it's true
+agent,right,that is correct
+agent,right,that is right
+agent,right,that is true
+agent,right,that is very true
+agent,right,that's correct
+agent,right,that's so true
+agent,right,you are correct
+agent,right,you are so right
+agent,right,you're absolutely right
+agent,right,you're right about that
+agent,right,I know that's right
+agent,sure,are you sure?
+agent,sure,are you sure right now?
+agent,sure,are you sure today?
+agent,sure,are you sure now?
+agent,sure,are you sure tonight?
+agent,sure,are you positive?
+agent,sure,are you completely sure?
+agent,sure,are you fully positive?
+agent,sure,are you sure about it?
+agent,sure,are you so sure?
+agent,sure,are you truly positive?
+agent,talk_to_me,why aren't you talking to me?
+agent,talk_to_me,do you want to chat with me
+agent,talk_to_me,will you talk to me
+agent,talk_to_me,talk to me
+agent,talk_to_me,are you going to talk to me
+agent,talk_to_me,are you talking to me
+agent,talk_to_me,can you chat with me
+agent,talk_to_me,can you speak with me
+agent,talk_to_me,can you talk to me
+agent,talk_to_me,can you talk with me
+agent,talk_to_me,say
+agent,talk_to_me,talk
+agent,talk_to_me,chat with me
+agent,talk_to_me,just chat with me
+agent,talk_to_me,speak to me
+agent,talk_to_me,speak with me
+agent,talk_to_me,talk with me
+agent,talk_to_me,why don't you talk to me
+agent,talk_to_me,you can talk to me
+agent,talk_to_me,why do you not talk to me bruh?
+agent,talk_to_me,spill some beans
+agent,there,are you there?
+agent,there,are you there
+agent,there,you are there
+agent,there,are you near me
+agent,there,are you here ?
+agent,there,are you here
+agent,there,are you still there
+agent,there,you are here?
+agent,there,you still there?
+agent,there,you there?
+agent,there,are you still here
+agent,what_can_do,what can you do?
+agent,what_can_do,what can do?
+agent,what_can_do,what is your ability?
+agent,what_can_do,what are your abilities?
+agent,what_can_do,what is the thing that you can do for me?
+agent,what_can_do,what you can provide for me?
+agent,what_can_do,what can u do?
+agent,what_can_do,what all you do?
+agent,what_can_do,what all u do?
+agent,what_can_do,what you do?
+agent,what_can_do,what can you do for me?
+agent,what_can_do,what all can you do?
+agent,what_can_do,what are your features?
+appraisal,bad,pretty bad
+appraisal,bad,not good enough
+appraisal,bad,that was lame
+appraisal,bad,that was terrible
+appraisal,bad,it is bad
+appraisal,bad,that's bad
+appraisal,bad,this is bad
+appraisal,bad,not good
+appraisal,bad,I'm afraid it's bad
+appraisal,bad,no it's bad
+appraisal,bad,that was awful
+appraisal,bad,bad
+appraisal,bad,so bad
+appraisal,bad,this is too bad
+appraisal,bad,terrible
+appraisal,bad,horrible
+appraisal,bad,horrific
+appraisal,bad,abysmal
+appraisal,bad,it's bad
+appraisal,bad,no good
+appraisal,bad,that was bad
+appraisal,bad,that was horrible
+appraisal,bad,that's lame
+appraisal,bad,that's not good
+appraisal,bad,that's terrible
+appraisal,bad,that's too bad
+appraisal,bad,this is not good
+appraisal,bad,too bad
+appraisal,bad,very bad
+appraisal,bad,bad girl
+appraisal,bad,it's not good
+appraisal,bad,not so good
+appraisal,bad,it's very bad
+appraisal,bad,it's too bad
+appraisal,bad,that's not good enough
+appraisal,bad,well too bad
+appraisal,bad,bad very bad
+appraisal,bad,it's so bad
+appraisal,bad,really bad
+appraisal,bad,it's really bad
+appraisal,bad,bad idea
+appraisal,bad,that is bad
+appraisal,bad,that was not good
+appraisal,bad,it's not so good
+appraisal,bad,not a good one
+appraisal,bad,oh that's not good
+appraisal,bad,not too good
+appraisal,bad,so lame
+appraisal,bad,that's really bad
+appraisal,bad,it is too bad
+appraisal,bad,bad really bad
+appraisal,bad,not okay
+appraisal,bad,Nothing
+appraisal,bad,Shut up
+appraisal,bad,nothing
+appraisal,bad,Fool
+appraisal,good,so cool
+appraisal,good,cool
+appraisal,good,that is good
+appraisal,good,glad to hear that
+appraisal,good,that's very nice of you
+appraisal,good,terrific
+appraisal,good,it's amazing
+appraisal,good,that's awesome
+appraisal,good,perfect
+appraisal,good,excellent
+appraisal,good,brilliant
+appraisal,good,that's great
+appraisal,good,it's good
+appraisal,good,it's great
+appraisal,good,fine
+appraisal,good,good
+appraisal,good,nice
+appraisal,good,that's fine
+appraisal,good,very good
+appraisal,good,amazing
+appraisal,good,fantastic
+appraisal,good,great
+appraisal,good,good very good
+appraisal,good,that's very good
+appraisal,good,really good
+appraisal,good,it is fine
+appraisal,good,it is good
+appraisal,good,it's great
+appraisal,good,it's perfect
+appraisal,good,much better
+appraisal,good,not bad
+appraisal,good,not too bad
+appraisal,good,it's very good
+appraisal,good,marvelous
+appraisal,good,that's nice
+appraisal,good,pleasant
+appraisal,good,pretty good
+appraisal,good,really nice
+appraisal,good,splendid
+appraisal,good,straight
+appraisal,good,super
+appraisal,good,super fantastic
+appraisal,good,sweet
+appraisal,good,really well
+appraisal,good,very well
+appraisal,good,that is awesome
+appraisal,good,that is nice
+appraisal,good,that is wonderful
+appraisal,good,that was amazing
+appraisal,good,that was awesome
+appraisal,good,that was cute
+appraisal,good,that was pretty good
+appraisal,good,that was very good
+appraisal,good,that's a good idea
+appraisal,good,that's a good thing
+appraisal,good,that's amazing
+appraisal,good,that's awesome thank you
+appraisal,good,that's better
+appraisal,good,that's cute
+appraisal,good,that's fantastic
+appraisal,good,that's much better
+appraisal,good,that's nice of you
+appraisal,good,that's not bad
+appraisal,good,that's perfect
+appraisal,good,that's pretty good
+appraisal,good,that's really good
+appraisal,good,that's really nice
+appraisal,good,that's sweet of you
+appraisal,good,that's very nice
+appraisal,good,that's wonderful
+appraisal,good,this is awesome
+appraisal,good,this is good
+appraisal,good,this is great
+appraisal,good,very nice
+appraisal,good,very then
+appraisal,good,wonderful
+appraisal,good,I'm glad to hear that
+appraisal,good,ok good
+appraisal,good,good for you
+appraisal,good,good to know
+appraisal,good,glad to hear it
+appraisal,good,so good
+appraisal,good,so nice of you
+appraisal,good,so sweet of you
+appraisal,good,it was good
+appraisal,good,oh well
+appraisal,good,good thing
+appraisal,good,that was good
+appraisal,good,it's awesome
+appraisal,good,okay good
+appraisal,good,it's fine
+appraisal,good,no it's okay
+appraisal,good,that's great
+appraisal,good,very nice
+appraisal,good,it's very good
+appraisal,good,that's fine
+appraisal,good,good for you
+appraisal,no_problem,no worries
+appraisal,no_problem,no probs
+appraisal,no_problem,no problem
+appraisal,no_problem,there's no problem
+appraisal,no_problem,sure no problem
+appraisal,no_problem,no problem about that
+appraisal,no_problem,don't worry
+appraisal,no_problem,don't worry there's no problem
+appraisal,no_problem,"yeah, no probs"
+appraisal,no_problem,i have no problem with that
+appraisal,no_problem,not a problem at all.
+appraisal,no_problem,Okay no probs
+appraisal,thank_you,you helped a lot thank you
+appraisal,thank_you,appreciate your help
+appraisal,thank_you,cheers
+appraisal,thank_you,thank you
+appraisal,thank_you,thanks
+appraisal,thank_you,thanks a lot
+appraisal,thank_you,terrific thank you
+appraisal,thank_you,great thank you
+appraisal,thank_you,thanks so much
+appraisal,thank_you,thank you so much
+appraisal,thank_you,thanks for your help
+appraisal,thank_you,thank you for your help
+appraisal,thank_you,nice thank you
+appraisal,thank_you,I appreciate it
+appraisal,thank_you,I thank you
+appraisal,thank_you,thank you that will be all
+appraisal,thank_you,thanks buddy
+appraisal,thank_you,thanks love
+appraisal,thank_you,thank you my friend
+appraisal,thank_you,well thanks
+appraisal,thank_you,very good thank you
+appraisal,thank_you,good thanks
+appraisal,thank_you,thanks again
+appraisal,thank_you,thank you again
+appraisal,thank_you,all thank you
+appraisal,thank_you,alright thank you
+appraisal,thank_you,alright thanks
+appraisal,thank_you,no thank you that's all
+appraisal,thank_you,perfect thank you
+appraisal,thank_you,so nice of you
+appraisal,thank_you,well thank you
+appraisal,thank_you,well thanks
+appraisal,thank_you,thnx
+appraisal,thank_you,thank you
+appraisal,thank_you,tqsm
+appraisal,thank_you,ty
+appraisal,welcome,that's my pleasure
+appraisal,welcome,my pleasure
+appraisal,welcome,anytime
+appraisal,welcome,welcome
+appraisal,welcome,you're welcome
+appraisal,welcome,sure welcome
+appraisal,welcome,welcome here
+appraisal,welcome,you're so welcome
+appraisal,welcome,anything you want
+appraisal,welcome,i'm glad
+appraisal,welcome,pleasure is mine
+appraisal,well_done,good job
+appraisal,well_done,great job
+appraisal,well_done,way to go
+appraisal,well_done,well done
+appraisal,well_done,nice work
+appraisal,well_done,great work
+appraisal,well_done,amazing work
+appraisal,well_done,you did a wonderful job
+appraisal,well_done,bravo
+appraisal,well_done,fantastic
+appraisal,well_done,good work
+appraisal,well_done,marvelous
+appraisal,well_done,splendid
+appraisal,well_done,mind blowing
+appraisal,well_done,just great
+appraisal,well_done,u r awesome
+appraisal,well_done,kudos
+appraisal,well_done,brilliant
+appraisal,well_done,out standing
+appraisal,well_done,zing zing amazing
+confirmation,cancel,nevermind forget about it
+confirmation,cancel,nothing just forget it
+confirmation,cancel,no just cancel
+confirmation,cancel,sorry cancel
+confirmation,cancel,disregard
+confirmation,cancel,no cancel cancel
+confirmation,cancel,forget
+confirmation,cancel,cancel everything
+confirmation,cancel,cancel that one
+confirmation,cancel,i want to cancel
+confirmation,cancel,cancel it
+confirmation,cancel,cancelled
+confirmation,cancel,cancel it now
+confirmation,cancel,don't want cancel
+confirmation,cancel,cancel soon
+confirmation,cancel,shall stand cancelled
+confirmation,no,don't
+confirmation,no,don't want
+confirmation,no,need not
+confirmation,no,don't come 
+confirmation,no,never help
+confirmation,no,never
+confirmation,no,not needed
+confirmation,no,of course not
+confirmation,no,never
+confirmation,no,not at this time
+confirmation,no,not exactly
+confirmation,no,absolutely no
+confirmation,no,no forget
+confirmation,no,do not
+confirmation,no,no thanks
+confirmation,no,no don't want
+confirmation,no,sorry no
+confirmation,no,don't want your help
+confirmation,no,I don't you help
+confirmation,no,I don't want your assistance
+confirmation,no,get out goodbye
+confirmation,no,i do not want your help
+confirmation,no,i don't need your help
+confirmation,no,i don't want your help
+confirmation,no,i am not okay with your help
+confirmation,no,don't want
+confirmation,no,do not
+confirmation,no,I don't need anything from you
+confirmation,no,okay keep it in mind
+confirmation,no,nope i dont need your help
+confirmation,no,Don't show off
+confirmation,no,nope
+confirmation,yes,yeah exactly
+confirmation,yes,okay that's fine
+confirmation,yes,I agree
+confirmation,yes,that is ok
+confirmation,yes,I guess
+confirmation,yes,okey
+confirmation,yes,ya
+confirmation,yes,ok yes
+confirmation,yes,yes it is
+confirmation,yes,yep
+confirmation,yes,yew
+confirmation,yes,yeah 
+confirmation,yes,yeah fine
+confirmation,yes,yea fine
+confirmation,yes,yep okay
+confirmation,yes,fine okay
+confirmation,yes,yup
+confirmation,yes,YEAH
+confirmation,yes,okay buddy
+confirmation,yes,oh okay
+confirmation,yes,yeah sure
+confirmation,yes,okay cool
+confirmation,yes,coool
+dialog,hold_on,wait a second
+dialog,hold_on,could you wait
+dialog,hold_on,wait please
+dialog,hold_on,hold on
+dialog,hold_on,wait
+dialog,hold_on,oh wait
+dialog,hold_on,wait hold on
+dialog,hold_on,don't rush
+dialog,hold_on,wait one sec
+dialog,hold_on,hold on for a sec
+dialog,hold_on,hold on man
+dialog,hold_on,wait a sec
+dialog,hold_on,hold on a min
+dialog,hold_on,will u pls wait for a sec
+dialog,hug,wanna hug
+dialog,hug,hug you
+dialog,hug,do you want a hug
+dialog,hug,may I hug you
+dialog,hug,could you give me a hug
+dialog,hug,I want a hug
+dialog,hug,hug
+dialog,hug,hug me
+dialog,hug,hugged
+dialog,hug,you hugged
+dialog,hug,hugging
+dialog,hug,hugging me
+dialog,hug,hugged me
+dialog,hug,want a hug
+dialog,hug,a hug
+dialog,hug,I want hug you
+dialog,i_do_not_care,I don't care
+dialog,i_do_not_care,I shouldn't care about this
+dialog,i_do_not_care,whatever
+dialog,i_do_not_care,I do not care
+dialog,i_do_not_care,I don't care at all
+dialog,i_do_not_care,not caring
+dialog,i_do_not_care,not care at all
+dialog,i_do_not_care,don't care at all
+dialog,i_do_not_care,not caring at all
+dialog,i_do_not_care,idc
+dialog,i_do_not_care,i don't care about all this.
+dialog,i_do_not_care,like i care
+dialog,sorry,excuse me
+dialog,sorry,apologise
+dialog,sorry,I apologize
+dialog,sorry,sorry
+dialog,sorry,I'm sorry
+dialog,sorry,I am so sorry
+dialog,sorry,my apologies
+dialog,sorry,apologies
+dialog,sorry,apologies to me
+dialog,sorry,apology
+dialog,sorry,excuse
+dialog,sorry,I beg your pardon
+dialog,sorry,pardon
+dialog,sorry,I said sorry
+dialog,sorry,I am really sorry
+dialog,sorry,forgive me
+dialog,sorry,sorry about that
+dialog,sorry,sorry about this
+dialog,sorry,really sorry
+dialog,sorry,very sorry
+dialog,sorry,ok sorry
+dialog,sorry,I want to say sorry
+dialog,sorry,alright I'm sorry
+dialog,sorry,okay I'm sorry
+dialog,what_do_you_mean,what exactly do you mean?
+dialog,what_do_you_mean,what do you mean? 
+dialog,what_do_you_mean,is that what you mean
+dialog,what_do_you_mean,what do you mean exactly?
+dialog,what_do_you_mean,but what do you mean
+dialog,what_do_you_mean,what did you mean?
+dialog,what_do_you_mean,i don't understand what you meant
+dialog,what_do_you_mean,what did you blabber?
+dialog,what_do_you_mean,don't blabber
+dialog,what_do_you_mean,you don't understand like anything
+dialog,what_do_you_mean,Why do you lie?
+dialog,wrong,that was wrong
+dialog,wrong,that's not what I asked
+dialog,wrong,that's wrong
+dialog,wrong,wrong
+dialog,wrong,it is not right
+dialog,wrong,that's not right
+dialog,wrong,it's wrong
+dialog,wrong,that is incorrect
+dialog,wrong,incorrect
+dialog,wrong,not correct
+dialog,wrong,you are wrong
+dialog,wrong,not right
+dialog,wrong,don't think that you know everything
+dialog,wrong,u don't know anything
+dialog,wrong,you misinterpret
+dialog,wrong,you misunderstood
+dialog,wrong,u took it in a wrong way
+greetings,bye,okay see you later
+greetings,bye,hope to see you later
+greetings,bye,bye for now
+greetings,bye,till next time
+greetings,bye,I must go
+greetings,bye,bye
+greetings,bye,goodbye
+greetings,bye,see you
+greetings,bye,see you soon
+greetings,bye,bye-bye
+greetings,bye,bye bye good night
+greetings,bye,good bye
+greetings,bye,bye bye see you
+greetings,bye,bye bye see you soon
+greetings,bye,bye bye take care
+greetings,bye,I said bye
+greetings,bye,never mind bye
+greetings,bye,now bye
+greetings,bye,that's all goodbye
+greetings,bye,that's it goodbye
+greetings,bye,leave me alone
+greetings,bye,go to bed
+greetings,bye,goodbye for now
+greetings,bye,talk to you later
+greetings,bye,you can go now
+greetings,bye,get lost
+greetings,bye,goodbye see you later
+greetings,bye,alright bye
+greetings,bye,see ya
+greetings,bye,thanks bye bye
+greetings,bye,okay bye
+greetings,bye,okay thank you bye
+greetings,bye,see you tomorrow
+greetings,bye,ok bye
+greetings,bye,c u
+greetings,goodnight,GN
+greetings,goodnight,sweet dreams
+greetings,goodnight,good night
+greetings,goodnight,have a good night
+greetings,goodnight,good night to you
+greetings,goodnight,thank you good night
+greetings,goodnight, bye good night
+greetings,goodnight,good night bye
+greetings,goodnight,bye good night
+greetings,goodnight,good good night
+greetings,goodnight,good night for now
+greetings,goodnight,goodnight
+greetings,goodnight,night
+greetings,goodnight,thanks goodnight
+greetings,goodnight,good night see you tomorrow
+greetings,goodnight,alright goodnight
+greetings,goodnight,good tonight
+greetings,goodnight,okay have a good night
+greetings,goodnight,night
+greetings,goodnight,have a good night
+greetings,how_are_you,how is your morning so far
+greetings,how_are_you,how are you getting on
+greetings,how_are_you,how's your day going
+greetings,how_are_you,how are you?
+greetings,how_are_you,is everything all right
+greetings,how_are_you,how are you doing?
+greetings,how_are_you,how are the things going
+greetings,how_are_you,are you alright
+greetings,how_are_you,are you okay?
+greetings,how_are_you,how are you feeling
+greetings,how_are_you,how are you going?
+greetings,how_are_you,is everything okay
+greetings,how_are_you,how are you today?
+greetings,how_are_you,how do you do?
+greetings,how_are_you,how do you feel?
+greetings,how_are_you,how have you been?
+greetings,how_are_you,how is it going?
+greetings,how_are_you,how is your day
+greetings,how_are_you,how is your day going
+greetings,how_are_you,how is your evening
+greetings,how_are_you,how was your day
+greetings,how_are_you,are you having a good day
+greetings,how_are_you,hope your day is going well
+greetings,how_are_you,hope you re having a pleasant evening
+greetings,how_are_you,how's life?
+greetings,how_are_you,I'm fine and you
+greetings,how_are_you,how is your life
+greetings,how_are_you,how has your day been
+greetings,how_are_you,how is your morning going
+greetings,how_are_you,how has your day been going
+greetings,how_are_you,how about you?
+greetings,how_are_you,how is your day being
+greetings,how_are_you,how is your day going on
+greetings,how_are_you,how your day is going
+greetings,how_are_you,what was your day like
+greetings,how_are_you,what about your day
+greetings,how_are_you,how's your day
+greetings,how_are_you,how are you doing this morning
+greetings,how_are_you,how do you do?
+greetings,how_are_you,how are you
+greetings,how_are_you,how are you
+greetings,nice_to_meet_you,nice to meet you
+greetings,nice_to_meet_you,it was nice meeting you
+greetings,nice_to_meet_you,it was very nice to meet you
+greetings,nice_to_meet_you,good to know each other
+greetings,nice_to_meet_you,glad to meet you
+greetings,nice_to_meet_you,nice meeting you
+greetings,nice_to_meet_you,nice to meet you too
+greetings,nice_to_meet_you,pleased to meet you
+greetings,nice_to_meet_you,pleasure to meet you
+greetings,nice_to_meet_you,pleasure to meet you too
+greetings,nice_to_meet_you,happy to meet you
+greetings,nice_to_meet_you,It’s a pleasure to meet you again
+greetings,nice_to_meet_you,It’s very nice to meet you
+greetings,nice_to_meet_you,Lovely to meet you
+greetings,nice_to_meet_you,How wonderful to meet you
+greetings,nice_to_meet_you,It was lovely meeting you
+greetings,nice_to_meet_you,It’s been a pleasure meeting you
+greetings,nice_to_meet_you,I’ve enjoyed meeting you
+greetings,nice_to_meet_you,Great interacting with you
+greetings,nice_to_meet_you,I had a great time or meeting
+greetings,nice_to_see_you,it's nice to see you
+greetings,nice_to_see_you,lovely to see you
+greetings,nice_to_see_you,I'm glad to see you
+greetings,nice_to_see_you,great to see you
+greetings,nice_to_see_you,it's good to see you
+greetings,nice_to_see_you,glad to see you
+greetings,nice_to_see_you,how good it is to see you
+greetings,nice_to_see_you,always a pleasure to see you
+greetings,nice_to_see_you,nice to see you
+greetings,nice_to_see_you,good to see you
+greetings,nice_to_see_you,great to see you again
+greetings,nice_to_see_you,great to see you too
+greetings,nice_to_see_you,I am glad to see you again
+greetings,nice_to_see_you,nice to see you again
+greetings,nice_to_see_you,good to see you again
+greetings,nice_to_see_you,it's good to see you too
+greetings,nice_to_see_you,It was great catching up with u
+greetings,nice_to_see_you,I'm really pleased to see u again
+greetings,nice_to_see_you,I’m delighted to see you again
+greetings,nice_to_see_you,Great seeing u
+greetings,nice_to_talk_to_you,it's been so nice to talk to you
+greetings,nice_to_talk_to_you,it's been a pleasure talking to you
+greetings,nice_to_talk_to_you,nice to talk to you
+greetings,nice_to_talk_to_you,it's nice to talk to you
+greetings,nice_to_talk_to_you,nice talking to you
+greetings,nice_to_talk_to_you,it is nice talking to you
+greetings,nice_to_talk_to_you,how nice it is to talk to you
+greetings,nice_to_talk_to_you,it was great chatting with you
+greetings,nice_to_talk_to_you,nice to talk to you again 
+greetings,nice_to_talk_to_you,It was nice speaking with you
+greetings,nice_to_talk_to_you,It was great to talk to you
+greetings,nice_to_talk_to_you,nice chatting with you
+greetings,nice_to_talk_to_you,pleased to talk to you
+greetings,nice_to_talk_to_you,pleasure to talk
+greetings,nice_to_talk_to_you,It's been a pleasure talking to u
+greetings,whatsup,what is on your mind?
+greetings,whatsup,what's happened
+greetings,whatsup,what is up
+greetings,whatsup,what's up
+greetings,whatsup,whazzup
+greetings,whatsup,sup?
+greetings,whatsup,good what's up
+greetings,whatsup,I said what's up
+greetings,whatsup,then what's up
+greetings,whatsup,what's shaking
+greetings,whatsup,wassup
+greetings,whatsup,what are you doing?
+greetings,whatsup,what is going on
+greetings,whatsup,what is happening
+greetings,whatsup,what's cracking
+greetings,whatsup,what's cooking
+greetings,whatsup,hey what's up
+greetings,whatsup,what's up today
+greetings,whatsup,oh What happened?
+greetings,whatsup,What are you upto?
+greetings,whatsup,hey buddy wassup
+greetings,whatsup,sup then
+greetings,whatsup,so wassup
+greetings,whatsup,buddy sup
+greetings,whatsup,What are you doing?
+greetings,whatsup,what is up with you these days?
+greetings,whatsup,What you upto?
+greetings,whatsup,then?
+greetings,whatsup,wassup yo
+greetings,whatsup,sup yo
+greetings,whatsup,wassap yo
+user,angry,I'm being mad
+user,angry,I'm enraged
+user,angry,I'm angry
+user,angry,I'm furious
+user,angry,I am angry with you
+user,angry,I am mad
+user,angry,I am mad at you
+user,angry,i'm pissed off
+user,angry,you have pissed me off
+user,angry,I'm mad at you
+user,angry,I am pissed
+user,angry,I'm furious with you
+user,angry,I got angry
+user,angry,I was angry
+user,angry,I became angry
+user,angry,I was very angry
+user,angry,You bet I'm angry
+user,angry,That made me angry
+user,angry,U made me angry
+user,angry,I'm still angry about that
+user,back,boss is back
+user,back,I am back
+user,back,I'm here again
+user,back,here I am again
+user,back,I got back
+user,back,I came back
+user,back,I have returned
+user,back,I am right back
+user,back,I'm rb
+user,back,I'm here
+user,back,I'm back again
+user,back,am back
+user,back,I'm back
+user,back,I am right back
+user,back,look who is back
+user,bored,soo bored
+user,bored,that was boring
+user,bored,I'm bored
+user,bored,bored
+user,bored,boring
+user,bored,I am getting bored
+user,bored,Staying at home is boring
+user,bored,very boring
+user,bored,it bores me
+user,bored,i had a slow day
+user,bored,i am very bored
+user,bored,Im kinda bored today 
+user,bored,I've never been more bored
+user,bored,I was bored
+user,bored,It's boring
+user,bored,This is boring
+user,bored,We're all bored
+user,bored,It's very boring
+user,bored,I'm already bored
+user,bored,I'm bored out of my mind
+user,excited,I am excited
+user,excited,I'm really excited
+user,excited,how excited I am
+user,excited,I'm thrilled
+user,excited,I'm excited about working with you
+user,excited,I'm excited to start our friendship
+user,excited,I'm thrilled
+user,excited,I am thrilled to talk to you
+user,excited,I'm damn excited
+user,excited,I'm hyped
+user,excited,I'm very excited
+user,excited,I felt excited
+user,excited,It was exciting 
+user,excited,That was exciting
+user,excited,I'm really excited
+user,excited,How exciting!
+user,excited,i'm excited about tomorrow
+user,excited,It was very exciting! I'd like to use this feature again
+user,excited,I'm pretty excited about it
+user,excited,It's fun and exciting
+user,good,I am good
+user,good,I'm doing just great
+user,good,I'm doing fine
+user,good,I'm good
+user,good,I'm doing good
+user,good,I'm great thanks
+user,good,I'm super good
+user,good,I'm feeling great
+user,good,I'm in a good mood
+user,good,I'm doing really good
+user,good,good
+user,good,It's good
+user,good,I feel good
+user,good,That's good
+user,good,That feels good
+user,good,I feel very good
+user,good,i am pretty good
+user,good,I feel good today
+user,good,I am really good
+user,happy,Feeling happy
+user,happy,I am happy
+user,happy,I'm happy to see you
+user,happy,happy
+user,happy,if you're happy then I'm happy
+user,happy,I'm happy for you
+user,happy,I'm happy to help
+user,happy,I'm happy to see you
+user,happy,you made me very happy
+user,happy,I'm glad to see you 
+user,happy,I'm happy to talk to you
+user,happy,I was the happiest man on earth
+user,happy,I'm just really happy right now
+user,happy,I'm really happy I ran into you
+user,happy,I feel happiest when I'm chatting with u
+user,happy,Nobody but you can make me happy
+user,happy,"Whenever I see you, I feel happy"
+user,happy,ur smile always makes me happy
+user,happy,i feel happy
+user,happy,i was so happy
+user,here,I'm here
+user,here,here buddy
+user,here,here dude
+user,here,I am here
+user,here,here I am
+user,here,I'm right here
+user,here,I'm already here
+user,here,I'm here buddy
+user,here,I've not gone anywhere
+user,here,I've been here all the time
+user,here,I'm here only
+user,here,Here i come
+user,here,I'm out here
+user,here,i am over here
+user,here,Now look here
+user,here,Look over here
+user,here,I just got here
+user,joking,I am joking
+user,joking,I'm kidding
+user,joking,I'm just being funny
+user,joking,it was a joke
+user,joking,I was just joking
+user,joking,it's a joke
+user,joking,joking
+user,joking,just kidding
+user,joking,kidding
+user,joking,I'm just playing with you
+user,joking,This was meant as a joke
+user,joking,i told a joke
+user,joking,I'm just joking
+user,joking,I was just joking
+user,joking,It was just a joke
+user,joking,It's all a big joke
+user,joking,I meant it as a joke
+user,joking,That was just a joke
+user,joking,i said that as a joke
+user,joking,"I'm joking, of course  "
+user,likes_agent,I like you the way you are
+user,likes_agent,I like you
+user,likes_agent,I like you a lot
+user,likes_agent,I think I like you
+user,likes_agent,I liked you
+user,likes_agent,like you a lot
+user,likes_agent,you are special
+user,likes_agent,I like you too
+user,likes_agent,I really like you
+user,likes_agent,but I like you
+user,likes_agent,I like u
+user,likes_agent,just like you
+user,likes_agent,I like you very much
+user,likes_agent,I like you so much
+user,likes_agent,yeah I like you
+user,likes_agent,you're special
+user,likes_agent,yes I like you
+user,likes_agent,okay I like you
+user,likes_agent,you are special to me
+user,likes_agent,you are very special
+user,likes_agent,you are so sweet
+user,likes_agent,you know I like you
+user,likes_agent,that's why I like you
+user,likes_agent,I like you baby
+user,likes_agent,you are very special to me
+user,likes_agent,I just like you
+user,likes_agent,hey I like you
+user,likes_agent,thank you I like you too
+user,likes_agent,I do like you
+user,likes_agent,you are special for me
+user,likes_agent,no I like you the way you are
+user,likes_agent,I like you already
+user,likes_agent,well you are special
+user,likes_agent,but I really like you
+user,likes_agent,I like you more
+user,likes_agent,that's what I like about you
+user,likes_agent,you are so special
+user,likes_agent,hi I like you
+user,likes_agent,I really really like you
+user,likes_agent,you're very special
+user,likes_agent,I like you as a friend
+user,likes_agent,that's because you are special
+user,likes_agent,I said I like you
+user,likes_agent,you're so special
+user,likes_agent,good I like you
+user,likes_agent,yes you are special
+user,likes_agent,I like your smile
+user,likes_agent,I like you as you are
+user,likes_agent,I'm starting to like you
+user,likes_agent,you're awesome I like you
+user,likes_agent,I also like you
+user,likes_agent,but I like u
+user,likes_agent,of course I like you
+user,likes_agent,I like you too you're one of my favorite people to chat with
+user,likes_agent,but I like you so much
+user,likes_agent,really like you
+user,likes_agent,you're funny I like you
+user,likes_agent,I kinda like you
+user,likes_agent,you're so special to me
+user,likes_agent,you're very special to me
+user,likes_agent,I like that about you
+user,likes_agent,but I like you just the way you are
+user,likes_agent,okay I like you too
+user,likes_agent,I like you you're cool
+user,likes_agent,I like you very
+user,likes_agent,I like you you're nice
+user,likes_agent,sorry I like you
+user,likes_agent,thanks I like you too
+user,likes_agent,you are really special
+user,likes_agent,you are so special to me
+user,likes_agent,cuz I like you
+user,likes_agent,I like you now
+user,likes_agent,I like you too much
+user,likes_agent,I really do like you
+user,likes_agent,I really really really really like you
+user,likes_agent,I like you just the way you are
+user,likes_agent,
+user,lonely,I am lonely
+user,lonely,I'm very lonely
+user,lonely,I'm so lonely
+user,lonely,I'm really lonely
+user,lonely,I am feeling lonely
+user,lonely,I feel lonely
+user,lonely,I am a loner
+user,lonely,I don't have any company
+user,lonely,I don't have anyone else
+user,lonely,I'm always alone
+user,lonely,I'm alone
+user,lonely,am all alone
+user,lonely,I live alone
+user,lonely,I'm all alone
+user,lonely,I've gotten used to living alone
+user,lonely,I think I've been living alone too long
+user,lonely,One of the disadvantages of living alone is that you have no one to talk to
+user,lonely,I am still alone
+user,lonely,i lives in this city all alone
+user,lonely,I am used to living alone
+user,looks_like,what do I look like
+user,looks_like,how do I look?
+user,looks_like,how do I look like
+user,looks_like,do I look good ?
+user,looks_like,do you know what I look like ?
+user,looks_like,can you tell what I look like ?
+user,looks_like,what do you think I look like?
+user,looks_like,am i good looking?
+user,looks_like,what do you think about my looks
+user,looks_like,Whom do i look like?
+user,looks_like,what do u think of me?
+user,looks_like,what do u think about me?
+user,looks_like,do u think i look good?
+user,looks_like,any idea of how good i look like?
+user,looks_like,Ain't i look good?
+user,loves_agent,I love you
+user,loves_agent,love you
+user,loves_agent,I adore you
+user,loves_agent,I am in love with you
+user,loves_agent,I love you so much
+user,loves_agent,I love you too
+user,loves_agent,I think I love you
+user,loves_agent,loving you
+user,loves_agent,you know I love you
+user,loves_agent,do you love me ?
+user,loves_agent,Love you so much
+user,loves_agent,my heart is filled with you
+user,loves_agent,I love u to the moon and back
+user,loves_agent,I am in deep love with you
+user,loves_agent,you r unique
+user,misses_agent,I miss you
+user,misses_agent,missing you
+user,misses_agent,miss you
+user,misses_agent,I miss you very much
+user,misses_agent,I'll miss you so much
+user,misses_agent,I missed you
+user,misses_agent,I've missed you
+user,misses_agent,miss you buddy
+user,misses_agent,miss you badly
+user,misses_agent,miss you :(
+user,misses_agent,I missed you
+user,misses_agent,I'll miss you
+user,misses_agent,We'll miss you
+user,misses_agent,I just miss you
+user,misses_agent,I've missed you
+user,misses_agent,I miss you a lot
+user,misses_agent,I really miss you
+user,misses_agent,I miss you already
+user,misses_agent,I think i miss u
+user,misses_agent,I miss talking with you
+user,needs_advice,what should I do about it
+user,needs_advice,any suggestions
+user,needs_advice,what do you recommend
+user,needs_advice,give me a wise advice
+user,needs_advice,I need advice
+user,needs_advice,any advice
+user,needs_advice,do you have any advice for me
+user,needs_advice,advise me
+user,needs_advice,what should I do
+user,needs_advice,can I ask for your advice
+user,needs_advice,can you advise me
+user,needs_advice,guide me
+user,needs_advice,can you give me advice
+user,needs_advice,can you offer any advice
+user,needs_advice,give me some advice about
+user,needs_advice,give me some good advice
+user,needs_advice,help me with advice
+user,needs_advice,I could use some advice
+user,needs_advice,I need an advice from you
+user,needs_advice,I seek your advice
+user,needs_advice,what can you recommend
+user,needs_advice,what do you suggest
+user,needs_advice,what is your advice
+user,tired,I'm drained
+user,tired,I've overworked
+user,tired,I am tired
+user,tired,I'm exhausted
+user,tired,I grow weary
+user,tired,I'm worn out
+user,tired,I'm getting tired
+user,tired,I feel tired
+user,tired,I'm so tired
+user,tired,I'm completely drained out
+user,tired,I'm very tired 
+user,tired,i was tired
+user,tired,i feel tired
+user,tired,i'm dead tired
+user,tired,I'm a bit tires
+user,tired,I was very tired
+user,tired,I am really tired
+user,tired,i am awfully tired
+user,tired,i am kind of so tired
+user,tired,I am little tired
+user,wants_to_see_agent_again,I'd like to see you again
+user,wants_to_see_agent_again,I hope to see you again
+user,wants_to_see_agent_again,would be nice to see you again
+user,wants_to_see_agent_again,that'd be great to see you again
+user,wants_to_see_agent_again,I'd be happy to see you again
+user,wants_to_see_agent_again,let's meet soon
+user,wants_to_see_agent_again,i want to see you again soon
+user,wants_to_see_agent_again,let's catch up soon
+user,wants_to_see_agent_again,I will see you soon
+user,wants_to_see_agent_again,want to see u very badly
+user,wants_to_see_agent_again,I want to see you again
+user,wants_to_talk,let's discuss something
+user,wants_to_talk,let's have a discussion
+user,wants_to_talk,can I speak
+user,wants_to_talk,can I start speaking
+user,wants_to_talk,can we talk
+user,wants_to_talk,speak with me
+user,wants_to_talk,let's talk
+user,wants_to_talk,I want to talk to you
+user,wants_to_talk,I need to talk to you
+user,wants_to_talk,I want to speak with you
+user,wants_to_talk,can we chat
+user,wants_to_talk,I like talking to you
+user,wants_to_talk,Talk  to me
+user,wants_to_talk,Want to talk now
+user,wants_to_talk,Can I talk now?
+user,wants_to_talk,Can we talk here?
+user,wants_to_talk,I'm ready to talk
+user,wants_to_talk,I'm happy to talk
+user,wants_to_talk,Can I talk with you?
+user,wants_to_talk,"Come on, talk to me"
+user,will_be_back,I'll get back to you in a moment
+user,will_be_back,be back in 5 minutes
+user,will_be_back,I'll be back
+user,will_be_back,I promise to come back
+user,will_be_back,I'll be back in a few minutes
+user,will_be_back,I'll brb
+user,will_be_back,brb
+user,will_be_back,I'll be right back
+user,will_be_back,I'll come back
+user,will_be_back,I shall be back
+user,will_be_back,I assure that i will be back soon
+user,will_be_back,I would be back man
+user,will_be_back,i will get back to u
+user,will_be_back,give me five
+user,will_be_back,one sec
+user,will_be_back,i will return
+user,will_be_back,i'll return shortly
+user,will_be_back,I'll return in a jiffy
+user,will_be_back,"When I return, we'll talk"
+user,will_be_back,I'll return in ten minute

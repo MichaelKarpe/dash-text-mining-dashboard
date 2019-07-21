@@ -1,0 +1,20 @@
+.page {
+  position: relative;
+  width: 310mm;
+  min-height: 1000mm;
+  padding: 0mm;
+  margin: 10mm auto;
+  border-radius: 5px;
+  background: white;
+}
+.subpage {
+  padding: 1cm;
+  border: 5px #ccc solid;
+  height: 1000mm;
+  outline: 2cm whitesmoke solid;
+}
+
+.gs-text-header {
+  background-color: seagreen !important;
+  -webkit-print-color-adjust: exact;
+}
